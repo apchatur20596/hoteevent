@@ -1,0 +1,11 @@
+{
+    "stripe_secret_key" : "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",
+    "stripe_secret_key_test" : "sk_test_51JIz5NIdNVTaWbE0ALQn20QM6vh8Ykd3YRlVKY2X0MOkxpSy1Xwt1j6yhIric5MgQqCVnWscV3Tt5DbAyXpC599i006hIYdhB6",
+    "sender_email" : "ajinkya.chatur20596@gmail.com",
+    "sender_pass" : "@jinkyaRockey1",
+    "client_id" : "839728086203-qhi4uoh63rlqr3ifunl2mra10uske8jl.apps.googleusercontent.com",
+    "client_secret" : "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",
+    "refresh_token" : "1//04G5nSHlYneq7CgYIARAAGAQSNwF-L9IrwkLf2CesRIsz_Vr3E1KJXYSzMW0ySY4tQuYeJea7E0qz9WqRhbSkotaGhOuBF0LLVP4",
+    "redirect_url" : "https://developers.google.com/oauthplayground"
+
+}
